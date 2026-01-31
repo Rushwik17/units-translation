@@ -1,0 +1,6 @@
+United States: Dollar ($)  
+United Kingdom: Pound (£)  
+India: Rupee (₹)  
+European Union: Euro (€)  
+Japan: Yen (¥)  
+China: Yuan (¥)  

@@ -1,0 +1,26 @@
+blink of an eye  
+heartbeat  
+arms length  
+arm’s reach  
+armspan  
+handspan  
+fingerbreadth  
+palm  
+head high  
+knee high  
+waist high  
+chest high  
+shoulder high  
+neck high  
+eye level  
+ankle deep  
+knee deep  
+waist deep  
+neck deep  
+elbow deep  
+finger deep  
+hip high  
+wingspan  
+eyesight  
+in one breath  
+side by side  
