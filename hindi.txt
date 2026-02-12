@@ -1,0 +1,17 @@
+Src: This road is 10 kilometers long and leads to Agra.
+Tgt: यह सड़क 10 किलोमीटर लंबी है और आगरा तक जाती है।
+
+Src: If I grow one more inch, I will be 6 feet.
+Tgt: अगर मैं एक इंच और बढ़ जाऊं तो मैं 6 फीट का हो जाऊंगा।
+
+Src: I was going to work yesterday, when I saw Anand.
+Tgt: मैं कल काम पर जा रहा था, तभी मैंने आनंद को देखा।
+
+Src: I almost got hit by a car.
+Tgt: मैं लगभग एक कार से टकरा गया था।
+
+Src: After the party, he left our house in the blink of an eye.
+Tgt: पार्टी के बाद वह पलक झपकते ही हमारे घर से चला गया।
+
+Src: Just add a pinch of salt to the rice.
+Tgt: चावल में बस एक चुटकी नमक डाल दें।
