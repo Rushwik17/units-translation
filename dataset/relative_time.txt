@@ -1,3 +1,5 @@
+## Others
+
 Over the course of a single decade, the city transformed through slow policy changes, cultural shifts, and personal stories that rarely made headlines but quietly reshaped daily life.
 Within one century, scientific understanding evolved from superstition to structured inquiry, altering how societies explained nature, disease, and humanity’s place in the universe.   
 Across several millennia, oral traditions preserved history, values, and identity, allowing communities without written language to transmit knowledge through memory, ritual, and storytelling.
@@ -10,6 +12,9 @@ Deep beneath the Antarctic ice, microorganisms remain in a state of suspended an
 If we successfully implement fusion energy within the next decade, the global power grid will undergo a transformation more radical than the invention of electricity itself.
 Throughout the nineteenth century, the rapid expansion of rail networks fundamentally reorganized the economic geography of the continent by connecting remote rural outposts to bustling urban centers.
 Local conservationists are fighting to protect the ancient aquifer, arguing that we are depleting a water source in a single generation that took several millennia to accumulate underground.
+
+## Past
+
 The temperature sensors recorded a significant drop in pressure yesterday, which alerted the engineering team to a potential leak in the primary containment vessel.
 It was only the day before yesterday that the committee finally agreed on the budget allocation for the upcoming fiscal quarter after weeks of intense debate.
 I recall seeing the missing file on the shared drive the other day while I was archiving the quarterly reports for the finance department.
@@ -150,6 +155,9 @@ Everything has gone according to plan up to now but we must remain vigilant for 
 The merger with the competitor is the largest business deal to date in the history of our small software company.
 The landscape of the city has changed dramatically over the years with skyscrapers replacing the old brick buildings downtown.
 Trust is something that is built over time through consistent actions and honesty rather than through grand gestures or promises.
+
+## Present
+
 After traveling across the state for several hours, Sarah finally arrived at the clinic today to complete her long-awaited medical examination.
 The lead engineer shouted that we must stabilize the cooling system now or the entire reactor core will reach a critical temperature.
 Detective Miller insisted that the forensic team secure the perimeter right now to preserve the integrity of the evidence found near the tracks.
@@ -240,6 +248,9 @@ The syllabus showed that the ongoing course had already covered six major units,
 The update confirmed that renovations in progress had extended the closure by two additional days, affecting travel plans for many locals.
 On the call, this very minute felt unbearably long to Ankit, as every second increased the uncertainty of hearing good news.
 The survey concluded that in recent times average commute durations had risen to seventy-five minutes daily, signaling a measurable shift in urban living patterns.
+
+## Future
+
 During the lecture, Rohan mentioned that the experiment would resume tomorrow after calibration, emphasizing continuity rather than rushing incomplete measurements or premature interpretations.
 In her email, Anika clarified that the review meeting was scheduled for the day after tomorrow, allowing everyone enough time to carefully read the draft report.
 The textbook explains that convergence will occur soon if initial conditions are stable, though students must still justify every assumption rigorously.
