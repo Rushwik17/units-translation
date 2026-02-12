@@ -1,105 +1,105 @@
-The textbook example explains that the laboratory corridor measured nearly 30 metres in length, which Rahul noted carefully while planning the placement of equipment along the wall.
-During the geography lecture, the professor mentioned that the river stretches for about 420 kilometres from its source to the delta, making it one of the longest in the region.
-In the tailoring class, Meena carefully adjusted the fabric by trimming exactly 2 centimetres from the edge to ensure the sleeves matched the design specifications.
-The chemistry manual states that the total mass of the reactants was close to 5 kilograms, which significantly influenced the reaction yield under controlled conditions.
-While baking, Arjun measured 250 grams of flour, noting in his notebook how precise quantities affect the texture and consistency of the final product.
-The physics problem describes how the signal took only 3 seconds to travel between the two sensors, highlighting the efficiency of the communication system.
-In the recorded interview, the speaker paused for several minutes to reflect, emphasizing how even short durations can feel long during intense discussions.
-According to the timetable, the lecture lasted for two hours, allowing the instructor enough time to cover both theoretical concepts and worked examples.
-The historian wrote that the expedition lasted 120 days, during which the team documented environmental changes and cultural interactions in great detail.
-The thermodynamics chapter notes that the experiment was conducted at 300 kelvins, ensuring that temperature-dependent variables remained stable throughout the process.
-In the weather report, Anjali explained that the afternoon temperature reached 38 degrees Celsius, which was unusually high for that time of the year.
-The architectural plan specifies that each apartment must have a minimum living area of 45 square metres to meet safety and comfort regulations.
-The microscopy slide showed a specimen covering only a few square centimetres, yet it revealed intricate cellular structures under high magnification.
-The agriculture report states that the farmer owns nearly 3 hectares of land, which determines the scale of crop rotation and irrigation planning.
-In fluid mechanics, the tank capacity was calculated as 12 cubic metres, allowing engineers to estimate storage requirements accurately.
-The nutrition label indicates that the bottle contains 1.5 litres of water, which helps consumers track their daily hydration intake.
-During the medical procedure, the nurse administered 5 millilitres of the solution, following strict dosage guidelines to ensure patient safety.
-The materials science textbook explains that the sample volume was exactly 10 cubic centimetres, making density calculations straightforward for the students.
-The kinematics example shows a cyclist accelerating smoothly to a speed of 6 metres per second, illustrating uniform motion over a straight path.
-In traffic analysis, the report mentions that the car was traveling at 80 kilometres per hour, which exceeded the posted speed limit on that highway.
-The dynamics problem concludes that the object experienced an acceleration of 9.8 metres per second squared, a standard approximation used near Earth’s surface.
-In the civil engineering handbook, the footbridge span was recorded as 18 metres, a value that students repeatedly referenced while learning basic structural load calculations.
-The travel diary notes that the pilgrimage route covered nearly 65 kilometres in total, which surprised Neha given the gradual elevation changes along the winding path.
-According to the laboratory log, the metal rod expanded by just 0.4 centimetres when heated, demonstrating how small linear changes can be precisely measured.
-The shipping invoice states that the combined cargo weighed 1,200 kilograms, a figure used by logistics planners to determine fuel consumption and axle limits.
-In the biology practical, the specimen sample was carefully weighed at 12 grams, ensuring consistency across all experimental trials conducted that afternoon.
-The networking textbook explains that the delay was measured as 0.02 seconds, which is critical when evaluating performance in real-time communication systems.
-During the debate, the moderator allowed each participant three minutes to present their argument, maintaining fairness and a steady pace throughout the session.
-The workshop schedule shows that the training session lasted six hours, giving participants ample time to practice techniques and ask detailed technical questions.
-The mission report documents that the team remained isolated for 42 days, a duration used to analyze psychological resilience in extreme environments.
-In the cryogenics chapter, the storage chamber was maintained at 77 kelvins, a temperature chosen to keep the materials in a stable liquid state.
-The climatology article reports that the average summer temperature hovered around 32 degrees Celsius, influencing crop cycles and regional energy consumption patterns.
-The housing policy mandates that each classroom provide at least 50 square metres of usable space to accommodate students safely and comfortably.
-Under the microscope calibration notes, the observed tissue section covered roughly 9 square centimetres, which was sufficient for comparative analysis.
-The land survey concludes that the wildlife reserve spans over 250 hectares, a size that supports diverse habitats and long-term conservation planning.
-In the environmental impact assessment, the reservoir volume was estimated at 4,000 cubic metres, informing downstream flood control strategies.
-The beverage container label specifies a capacity of 2 litres, a detail often cited in consumer studies on portion perception.
-During the chemistry demonstration, the instructor added exactly 0.8 millilitres of reagent, emphasizing precision in volumetric measurements.
-The mechanical drawing notes that the component cavity holds 15 cubic centimetres, which affects material choice and thermal behavior.
-The physics tutorial describes a sprinter reaching a peak speed of 11 metres per second, illustrating the limits of human acceleration.
-In the transportation study, average traffic flow was measured at 45 kilometres per hour during peak times, reflecting congestion patterns across the city.
-The dynamics lecture concludes that the elevator’s initial acceleration was 1.2 metres per second squared, a value used to discuss passenger comfort and safety.
-While inspecting the construction site, Ajay explained that the wall extended exactly 12 metres, which was necessary to meet the structural design mentioned in the project report.
-During the cycling trip, Priya noted in her journal that she had already covered 7.5 kilometres before breakfast, feeling proud of her steady endurance.
-In the tailoring class, the instructor showed how even a centimetre error in measurement could ruin the symmetry of a carefully designed garment.
-The doctor told Rahul that his body mass of 68 kilograms was ideal for his height and should be maintained with regular exercise.
-In the chemistry lab, Sneha weighed the compound carefully, recording 2.3 grams to ensure the reaction followed the stoichiometric calculations.
-During the sprint test, the stopwatch recorded every second precisely so the coach could compare reaction times across different athletes.
-As they waited for the train, Aman complained that even a five minute delay felt frustrating after such a long day at work.
-The guide mentioned that the museum tour would last about one hour, allowing visitors enough time to explore each historical exhibit in detail.
-In her field notes, Kavya observed that each day in the rainforest brought measurable changes in humidity and animal activity.
-The physics textbook explained that temperatures measured in kelvin are essential when discussing thermodynamic laws without relying on relative reference points.
-According to the climate data, the average summer temperature of 32 degrees Celsius significantly affected crop yield in the region.
-The real estate brochure stated that the apartment offered 110 square metres of living space, suitable for a medium-sized family.
-In the electronics lab, the manual specified that the contact area of 4 square centimetres was required for optimal heat dissipation.
-The agricultural report highlighted that the plantation spanned nearly 15 hectares, enabling large-scale mechanized farming practices.
-The civil engineer calculated that the reservoir could hold 500 cubic metres of water, ensuring sufficient supply during dry seasons.
-At the dairy, the worker measured 20 litres of milk every morning to meet the daily distribution requirements.
-While preparing the vaccine dose, the technician carefully drew only 0.8 millilitres into the syringe to maintain safety standards.
-The anatomy lesson described organ volumes in cubic centimetres so students could better visualize the compact internal structures.
-During training, the athlete’s speed of 9.2 metres per second was cited as evidence of significant improvement over last season.
-The traffic officer warned that driving consistently above 80 kilometres per hour greatly increased stopping distance on wet roads.
-In the mechanics lecture, the professor explained that an acceleration of 3 metres per second squared could be uncomfortable for standing passengers.
-Rohit remarked that the old library corridor stretched nearly 48 metres end to end, making it ideal for demonstrating long-distance indoor measurements during class.
-In her travel blog, Kavya wrote that the bus journey covered about 312 kilometres across dry plains and hills, explaining why the trip felt unusually exhausting.
-The craft instructor noted that trimming just 1.5 centimetres from each side of the wooden frame was enough to correct the visible asymmetry.
-According to the warehouse manifest, the stacked machinery parts weighed almost 920 kilograms in total, which required a reinforced loading platform for safety.
-During the lab demonstration, the instructor showed how adding only 6 grams of salt could noticeably change the conductivity of the solution.
-The exam scenario described how the system reboot completed in 12 seconds, a duration students used to compare different operating efficiencies.
-Neha joked that waiting even five minutes for the elevator felt longer than expected after a full day of lectures and lab work.
-The workshop outline stated that the hands-on session would run for three hours, giving participants enough time to make mistakes and learn properly.
-In his journal, Aman noted that the internship lasted 75 days, a period long enough to understand both technical skills and workplace dynamics.
-The physics manual specifies that the sample was stabilized at 290 kelvins to ensure that thermal fluctuations did not affect the experimental readings.
-The news report mentioned that the afternoon heat peaked at 41 degrees Celsius, forcing schools to close early for student safety.
-The blueprint required each exhibition stall to occupy at least 20 square metres so visitors could move comfortably without crowding.
-Under magnification, the stain spread across roughly 11 square centimetres, which was sufficient for the technician to identify cell damage patterns.
-The environmental assessment revealed that the solar farm occupied nearly 140 hectares, significantly altering land use in the surrounding rural area.
-The engineering proposal calculated that the underground chamber could store up to 60 cubic metres of water during peak rainfall conditions.
-The nutritionist explained that drinking two litres of water daily helps maintain hydration levels, especially in hot and physically demanding environments.
-For the calibration test, the technician injected exactly 0.6 millilitres of fluid, carefully observing the sensor’s response curve.
-The lab worksheet stated that the metal cube had a volume of 27 cubic centimetres, making it convenient for introductory density calculations.
-In the simulation, the drone cruised steadily at 8 metres per second, allowing the students to analyze constant velocity motion.
-Traffic police records showed that vehicles often slowed to 22 kilometres per hour during evening congestion near the city center.
-The physics example concluded that the lift initially accelerated at 2.3 metres per second squared, a value used to discuss passenger comfort limits.
-Suresh explained that the newly built hallway measured almost 55 metres in length, which made it suitable for indoor evacuation drills during safety training sessions.
-The documentary narration mentioned that the pilgrimage route extended for nearly 870 kilometres, illustrating the vast geographical spread covered over several weeks of travel.
-While repairing the prototype, Ananya shortened the cable by exactly 2.2 centimetres, noting that even small adjustments improved alignment and reduced signal noise.
-The freight supervisor confirmed that the loaded container exceeded 1,500 kilograms, prompting a reassessment of crane capacity and warehouse floor strength.
-In the chemistry lab, the assistant carefully separated 18 grams of the compound, ensuring that each group received an identical amount for comparison.
-The troubleshooting guide noted that the system timeout was set to 0.75 seconds, which balanced responsiveness with tolerance for minor network delays.
-During rehearsal, the director asked the actor to pause for thirty seconds, emphasizing how silence can dramatically change audience perception of a scene.
-The conference agenda showed that the keynote session lasted nearly five hours, allowing the speaker to explore both theoretical insights and practical case studies.
-Her field notes recorded that the survey continued for 110 days, providing enough longitudinal data to observe meaningful seasonal behavioral changes.
-The materials experiment required maintaining the chamber at 350 kelvins, a condition chosen to accelerate chemical reactions without degrading the sample.
-The regional forecast warned that temperatures might rise to 39 degrees Celsius, increasing electricity demand and placing additional strain on cooling systems.
-Building regulations specified that each laboratory must provide no less than 70 square metres of workspace to safely accommodate equipment and personnel.
-The forensic report stated that the residue covered nearly 14 square centimetres, offering investigators sufficient surface area for chemical identification tests.
-Land records revealed that the cooperative farm managed close to 96 hectares, influencing decisions related to mechanization and crop diversification strategies.
-The civil design document estimated the tunnel capacity at 310 cubic metres, which was critical for calculating ventilation and emergency drainage requirements.
-The health brochure advised adults to consume around 2.5 litres of fluids daily, especially when working outdoors in warm climates.
-For the demonstration, the lecturer dispensed 1.2 millilitres of dye, allowing students to clearly observe diffusion patterns in the solution.
-The casting mold description noted an internal volume of 42 cubic centimetres, simplifying calculations related to material shrinkage after cooling.
-In the motion analysis video, the ball rolled at a steady 3 metres per second, making it easy to illustrate uniform linear motion concepts.
-The urban mobility report indicated that average traffic flow dropped to 18 kilometres per hour during peak office commute times.
-The mechanics problem stated that the cart experienced an acceleration of 0.9 metres per second squared, which students used to verify Newton’s second law.
+The textbook example explains that the laboratory corridor measured nearly 30 metres in length, which Rahul noted carefully while planning the placement of equipment along the wall.	.
+During the geography lecture, the professor mentioned that the river stretches for about 420 kilometres from its source to the delta, making it one of the longest in the region.	.
+In the tailoring class, Meena carefully adjusted the fabric by trimming exactly 2 centimetres from the edge to ensure the sleeves matched the design specifications.	.
+The chemistry manual states that the total mass of the reactants was close to 5 kilograms, which significantly influenced the reaction yield under controlled conditions.	.
+While baking, Arjun measured 250 grams of flour, noting in his notebook how precise quantities affect the texture and consistency of the final product.	.
+The physics problem describes how the signal took only 3 seconds to travel between the two sensors, highlighting the efficiency of the communication system.	.
+In the recorded interview, the speaker paused for several minutes to reflect, emphasizing how even short durations can feel long during intense discussions.	.
+According to the timetable, the lecture lasted for two hours, allowing the instructor enough time to cover both theoretical concepts and worked examples.	.
+The historian wrote that the expedition lasted 120 days, during which the team documented environmental changes and cultural interactions in great detail.	.
+The thermodynamics chapter notes that the experiment was conducted at 300 kelvins, ensuring that temperature-dependent variables remained stable throughout the process.	.
+In the weather report, Anjali explained that the afternoon temperature reached 38 degrees Celsius, which was unusually high for that time of the year.	.
+The architectural plan specifies that each apartment must have a minimum living area of 45 square metres to meet safety and comfort regulations.	.
+The microscopy slide showed a specimen covering only a few square centimetres, yet it revealed intricate cellular structures under high magnification.	.
+The agriculture report states that the farmer owns nearly 3 hectares of land, which determines the scale of crop rotation and irrigation planning.	.
+In fluid mechanics, the tank capacity was calculated as 12 cubic metres, allowing engineers to estimate storage requirements accurately.	.
+The nutrition label indicates that the bottle contains 1.5 litres of water, which helps consumers track their daily hydration intake.	.
+During the medical procedure, the nurse administered 5 millilitres of the solution, following strict dosage guidelines to ensure patient safety.	.
+The materials science textbook explains that the sample volume was exactly 10 cubic centimetres, making density calculations straightforward for the students.	.
+The kinematics example shows a cyclist accelerating smoothly to a speed of 6 metres per second, illustrating uniform motion over a straight path.	.
+In traffic analysis, the report mentions that the car was traveling at 80 kilometres per hour, which exceeded the posted speed limit on that highway.	.
+The dynamics problem concludes that the object experienced an acceleration of 9.8 metres per second squared, a standard approximation used near Earth’s surface.	.
+In the civil engineering handbook, the footbridge span was recorded as 18 metres, a value that students repeatedly referenced while learning basic structural load calculations.	.
+The travel diary notes that the pilgrimage route covered nearly 65 kilometres in total, which surprised Neha given the gradual elevation changes along the winding path.	.
+According to the laboratory log, the metal rod expanded by just 0.4 centimetres when heated, demonstrating how small linear changes can be precisely measured.	.
+The shipping invoice states that the combined cargo weighed 1,200 kilograms, a figure used by logistics planners to determine fuel consumption and axle limits.	.
+In the biology practical, the specimen sample was carefully weighed at 12 grams, ensuring consistency across all experimental trials conducted that afternoon.	.
+The networking textbook explains that the delay was measured as 0.02 seconds, which is critical when evaluating performance in real-time communication systems.	.
+During the debate, the moderator allowed each participant three minutes to present their argument, maintaining fairness and a steady pace throughout the session.	.
+The workshop schedule shows that the training session lasted six hours, giving participants ample time to practice techniques and ask detailed technical questions.	.
+The mission report documents that the team remained isolated for 42 days, a duration used to analyze psychological resilience in extreme environments.	.
+In the cryogenics chapter, the storage chamber was maintained at 77 kelvins, a temperature chosen to keep the materials in a stable liquid state.	.
+The climatology article reports that the average summer temperature hovered around 32 degrees Celsius, influencing crop cycles and regional energy consumption patterns.	.
+The housing policy mandates that each classroom provide at least 50 square metres of usable space to accommodate students safely and comfortably.	.
+Under the microscope calibration notes, the observed tissue section covered roughly 9 square centimetres, which was sufficient for comparative analysis.	.
+The land survey concludes that the wildlife reserve spans over 250 hectares, a size that supports diverse habitats and long-term conservation planning.	.
+In the environmental impact assessment, the reservoir volume was estimated at 4,000 cubic metres, informing downstream flood control strategies.	.
+The beverage container label specifies a capacity of 2 litres, a detail often cited in consumer studies on portion perception.	.
+During the chemistry demonstration, the instructor added exactly 0.8 millilitres of reagent, emphasizing precision in volumetric measurements.	.
+The mechanical drawing notes that the component cavity holds 15 cubic centimetres, which affects material choice and thermal behavior.	.
+The physics tutorial describes a sprinter reaching a peak speed of 11 metres per second, illustrating the limits of human acceleration.	.
+In the transportation study, average traffic flow was measured at 45 kilometres per hour during peak times, reflecting congestion patterns across the city.	.
+The dynamics lecture concludes that the elevator’s initial acceleration was 1.2 metres per second squared, a value used to discuss passenger comfort and safety.	.
+While inspecting the construction site, Ajay explained that the wall extended exactly 12 metres, which was necessary to meet the structural design mentioned in the project report.	.
+During the cycling trip, Priya noted in her journal that she had already covered 7.5 kilometres before breakfast, feeling proud of her steady endurance.	.
+In the tailoring class, the instructor showed how even a centimetre error in measurement could ruin the symmetry of a carefully designed garment.	.
+The doctor told Rahul that his body mass of 68 kilograms was ideal for his height and should be maintained with regular exercise.	.
+In the chemistry lab, Sneha weighed the compound carefully, recording 2.3 grams to ensure the reaction followed the stoichiometric calculations.	.
+During the sprint test, the stopwatch recorded every second precisely so the coach could compare reaction times across different athletes.	.
+As they waited for the train, Aman complained that even a five minute delay felt frustrating after such a long day at work.	.
+The guide mentioned that the museum tour would last about one hour, allowing visitors enough time to explore each historical exhibit in detail.	.
+In her field notes, Kavya observed that each day in the rainforest brought measurable changes in humidity and animal activity.	.
+The physics textbook explained that temperatures measured in kelvin are essential when discussing thermodynamic laws without relying on relative reference points.	.
+According to the climate data, the average summer temperature of 32 degrees Celsius significantly affected crop yield in the region.	.
+The real estate brochure stated that the apartment offered 110 square metres of living space, suitable for a medium-sized family.	.
+In the electronics lab, the manual specified that the contact area of 4 square centimetres was required for optimal heat dissipation.	.
+The agricultural report highlighted that the plantation spanned nearly 15 hectares, enabling large-scale mechanized farming practices.	.
+The civil engineer calculated that the reservoir could hold 500 cubic metres of water, ensuring sufficient supply during dry seasons.	.
+At the dairy, the worker measured 20 litres of milk every morning to meet the daily distribution requirements.	.
+While preparing the vaccine dose, the technician carefully drew only 0.8 millilitres into the syringe to maintain safety standards.	.
+The anatomy lesson described organ volumes in cubic centimetres so students could better visualize the compact internal structures.	.
+During training, the athlete’s speed of 9.2 metres per second was cited as evidence of significant improvement over last season.	.
+The traffic officer warned that driving consistently above 80 kilometres per hour greatly increased stopping distance on wet roads.	.
+In the mechanics lecture, the professor explained that an acceleration of 3 metres per second squared could be uncomfortable for standing passengers.	.
+Rohit remarked that the old library corridor stretched nearly 48 metres end to end, making it ideal for demonstrating long-distance indoor measurements during class.	.
+In her travel blog, Kavya wrote that the bus journey covered about 312 kilometres across dry plains and hills, explaining why the trip felt unusually exhausting.	.
+The craft instructor noted that trimming just 1.5 centimetres from each side of the wooden frame was enough to correct the visible asymmetry.	.
+According to the warehouse manifest, the stacked machinery parts weighed almost 920 kilograms in total, which required a reinforced loading platform for safety.	.
+During the lab demonstration, the instructor showed how adding only 6 grams of salt could noticeably change the conductivity of the solution.	.
+The exam scenario described how the system reboot completed in 12 seconds, a duration students used to compare different operating efficiencies.	.
+Neha joked that waiting even five minutes for the elevator felt longer than expected after a full day of lectures and lab work.	.
+The workshop outline stated that the hands-on session would run for three hours, giving participants enough time to make mistakes and learn properly.	.
+In his journal, Aman noted that the internship lasted 75 days, a period long enough to understand both technical skills and workplace dynamics.	.
+The physics manual specifies that the sample was stabilized at 290 kelvins to ensure that thermal fluctuations did not affect the experimental readings.	.
+The news report mentioned that the afternoon heat peaked at 41 degrees Celsius, forcing schools to close early for student safety.	.
+The blueprint required each exhibition stall to occupy at least 20 square metres so visitors could move comfortably without crowding.	.
+Under magnification, the stain spread across roughly 11 square centimetres, which was sufficient for the technician to identify cell damage patterns.	.
+The environmental assessment revealed that the solar farm occupied nearly 140 hectares, significantly altering land use in the surrounding rural area.	.
+The engineering proposal calculated that the underground chamber could store up to 60 cubic metres of water during peak rainfall conditions.	.
+The nutritionist explained that drinking two litres of water daily helps maintain hydration levels, especially in hot and physically demanding environments.	.
+For the calibration test, the technician injected exactly 0.6 millilitres of fluid, carefully observing the sensor’s response curve.	.
+The lab worksheet stated that the metal cube had a volume of 27 cubic centimetres, making it convenient for introductory density calculations.	.
+In the simulation, the drone cruised steadily at 8 metres per second, allowing the students to analyze constant velocity motion.	.
+Traffic police records showed that vehicles often slowed to 22 kilometres per hour during evening congestion near the city center.	.
+The physics example concluded that the lift initially accelerated at 2.3 metres per second squared, a value used to discuss passenger comfort limits.	.
+Suresh explained that the newly built hallway measured almost 55 metres in length, which made it suitable for indoor evacuation drills during safety training sessions.	.
+The documentary narration mentioned that the pilgrimage route extended for nearly 870 kilometres, illustrating the vast geographical spread covered over several weeks of travel.	.
+While repairing the prototype, Ananya shortened the cable by exactly 2.2 centimetres, noting that even small adjustments improved alignment and reduced signal noise.	.
+The freight supervisor confirmed that the loaded container exceeded 1,500 kilograms, prompting a reassessment of crane capacity and warehouse floor strength.	.
+In the chemistry lab, the assistant carefully separated 18 grams of the compound, ensuring that each group received an identical amount for comparison.	.
+The troubleshooting guide noted that the system timeout was set to 0.75 seconds, which balanced responsiveness with tolerance for minor network delays.	.
+During rehearsal, the director asked the actor to pause for thirty seconds, emphasizing how silence can dramatically change audience perception of a scene.	.
+The conference agenda showed that the keynote session lasted nearly five hours, allowing the speaker to explore both theoretical insights and practical case studies.	.
+Her field notes recorded that the survey continued for 110 days, providing enough longitudinal data to observe meaningful seasonal behavioral changes.	.
+The materials experiment required maintaining the chamber at 350 kelvins, a condition chosen to accelerate chemical reactions without degrading the sample.	.
+The regional forecast warned that temperatures might rise to 39 degrees Celsius, increasing electricity demand and placing additional strain on cooling systems.	.
+Building regulations specified that each laboratory must provide no less than 70 square metres of workspace to safely accommodate equipment and personnel.	.
+The forensic report stated that the residue covered nearly 14 square centimetres, offering investigators sufficient surface area for chemical identification tests.	.
+Land records revealed that the cooperative farm managed close to 96 hectares, influencing decisions related to mechanization and crop diversification strategies.	.
+The civil design document estimated the tunnel capacity at 310 cubic metres, which was critical for calculating ventilation and emergency drainage requirements.	.
+The health brochure advised adults to consume around 2.5 litres of fluids daily, especially when working outdoors in warm climates.	.
+For the demonstration, the lecturer dispensed 1.2 millilitres of dye, allowing students to clearly observe diffusion patterns in the solution.	.
+The casting mold description noted an internal volume of 42 cubic centimetres, simplifying calculations related to material shrinkage after cooling.	.
+In the motion analysis video, the ball rolled at a steady 3 metres per second, making it easy to illustrate uniform linear motion concepts.	.
+The urban mobility report indicated that average traffic flow dropped to 18 kilometres per hour during peak office commute times.	.
+The mechanics problem stated that the cart experienced an acceleration of 0.9 metres per second squared, which students used to verify Newton’s second law.	.
