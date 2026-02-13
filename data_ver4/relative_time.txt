@@ -1,9 +1,6 @@
-### Others
 Decade
 Century
 Millenia
-
-### Past
 yesterday
 day before yesterday
 the other day
@@ -32,8 +29,6 @@ up to now
 to date
 over the years
 over time
-
-### Present
 today
 now
 right now
@@ -51,9 +46,7 @@ for the time being
 ongoing
 in progress
 this very minute
-in recent times
-
-### Future
+recent times
 tomorrow
 day after tomorrow
 soon
@@ -75,7 +68,6 @@ upcoming
 next week
 next month
 next year
-the near future
 near future
 in the coming days
 in days to come

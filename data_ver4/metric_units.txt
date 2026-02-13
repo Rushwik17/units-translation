@@ -8,7 +8,7 @@ minute
 hour
 day
 kelvin
-degree Celsius
+Celsius
 square metre
 square centimetre
 hectare
