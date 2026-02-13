@@ -16,11 +16,17 @@ files = [
     "relative_time4.txt",
 ]
 
-for file_path in files:
-    file_path = os.path.join(src, file_path)
-    df = pd.read_csv(file_path, sep="\t")
-    
-    file_path = os.path.basename(file_path)
-    file_name = os.path.splitext(file_path)[0]
+output_file = "mapping.xlsx"
 
-    df.to_excel("mapping.xls", file_name)
+with pd.ExcelWriter(output_file, engine="openpyxl") as writer:
+    for fname in files:
+        full_path = os.path.join(src, fname)
+        df = pd.read_csv(full_path, sep="\t", header=None)
+        sheet_name = os.path.splitext(fname)[0]
+
+        df.to_excel(
+            writer,
+            sheet_name=sheet_name,
+            index=False,
+            header=False
+        )
